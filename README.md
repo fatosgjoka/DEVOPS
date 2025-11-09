@@ -39,15 +39,12 @@
 
 #### 🔹 Terraform + Ansible Automation
 Automated deployment of OCI VMs using Terraform, followed by configuration management via Ansible playbooks.  
-📂 [Example Repository (coming soon)]()
 
 #### 🔹 Linux Hardening Scripts
 Scripts for automated security hardening and CIS benchmark compliance for Debian and Oracle Linux.  
-📂 [Example Repository (coming soon)]()
 
 #### 🔹 Firewall Management
 Custom iptables/nftables firewall rulesets for secure multi-server environments.  
-📂 [Example Repository (coming soon)]()
 
 ---
 
